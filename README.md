@@ -22,3 +22,18 @@ https://github.com/vrano714/max30102-tutorial-raspberrypi
 complete 30100MAX
 
 https://www.hackster.io/SurtrTech/measure-heart-rate-and-spo2-with-max30102-c2b4d8
+
+
+Bluetooth Pulse oxymeter with python , angular5
+
+https://www.youtube.com/watch?v=TcNMeNGOKJ8
+
+Webcam Heart-Rate Monitor
+
+http://jhnet.co.uk/projects/heart_monitor
+
+
+
+
+
+
