@@ -17,6 +17,8 @@ MAX30102
 
 https://www.hackster.io/SurtrTech/measure-heart-rate-and-spo2-with-max30102-c2b4d8
 
+https://github.com/vrano714/max30102-tutorial-raspberrypi
+
 complete 30100MAX
 
 https://www.hackster.io/SurtrTech/measure-heart-rate-and-spo2-with-max30102-c2b4d8
