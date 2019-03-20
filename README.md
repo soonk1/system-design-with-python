@@ -19,6 +19,8 @@ https://www.hackster.io/SurtrTech/measure-heart-rate-and-spo2-with-max30102-c2b4
 
 https://github.com/vrano714/max30102-tutorial-raspberrypi
 
+https://www.twobitarcade.net/article/wemos-heart-rate-sensor-display-micropython/
+
 complete 30100MAX
 
 https://www.hackster.io/SurtrTech/measure-heart-rate-and-spo2-with-max30102-c2b4d8
