@@ -25,6 +25,9 @@ complete 30100MAX
 
 https://www.hackster.io/SurtrTech/measure-heart-rate-and-spo2-with-max30102-c2b4d8
 
+library 30100max 
+https://github.com/mfitzp/max30100/blob/master/max30100.py
+
 
 Bluetooth Pulse oxymeter with python , angular5
 
